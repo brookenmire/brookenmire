@@ -1,0 +1,65 @@
+0:
+PowerOn
+0:PaintScreen
+0:GpsLock
+0:WTOS:13:44:51UTC Mem:159952
+0:
+PowerOn
+0:
+PowerOn
+0:PaintScreen
+0:GpsLock
+0:WTOS:13:48:49UTC Mem:160048
+0:
+PowerOn
+0:PaintScreen
+0:NGL1:-4
+0:
+PowerOn
+0:PaintScreen
+0:NGL1:-4
+23:GpsLock
+0:WTOS:13:11:36UTC Mem:159952
+0:NGL2:-4
+0:
+PowerOn
+0:PaintScreen
+0:NGL1:-4
+239:GpsLock
+0:WTOS:13:31:16UTC Mem:159952
+0:
+PowerOn
+0:PaintScreen
+0:
+PowerOn
+0:PaintScreen
+0:GpsLock
+0:WTOS:13:38:15UTC Mem:159952
+0:
+PowerOn
+0:PaintScreen
+0:GpsLock
+0:WTOS:13:41:1UTC Mem:159984
+0:NGL2:-4
+0:
+PowerOn
+0:PaintScreen
+0:GpsLock
+0:WTOS:13:41:37UTC Mem:159952
+0:
+PowerOn
+0:PaintScreen
+0:NGL1:-4
+76:GpsLock
+0:WTOS:13:56:46UTC Mem:159952
+0:NGL2:-3
+0:
+PowerOn
+0:PaintScreen
+0:NGL1:-4
+0:NGL1:-3
+0:GpsLock
+0:WTOS:13:57:57UTC Mem:159984
+0:
+PowerOn
+0:PaintScreen
